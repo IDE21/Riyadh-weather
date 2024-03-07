@@ -1,4 +1,4 @@
-# Linux-project
+# Riyadh-weather-project
 
 **Simulated Business Scenario**
 
